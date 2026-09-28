@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Nao ha area restrita nem paginas com conteudo sensivel no cliente.
+# O endereco exato do consultorio nao e publicado por aqui de proposito:
+# ele e enviado no primeiro contato, pelo WhatsApp.
+
+Sitemap: https://seu-dominio.com.br/sitemap.xml
